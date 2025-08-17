@@ -89,13 +89,6 @@ public class MNKGame {
         setVsBot();
     }
 
-    public void setup(int rows, int cols, int reqToWin, boolean gravity, boolean vsBot) {
-        setBoardSize(rows, cols);
-        setReqToWin(reqToWin);
-        setGravity(gravity);
-        setVsBot(vsBot);
-    }
-
     public void setup(int rows, int cols, int reqToWin, boolean gravity) {
         setBoardSize(rows, cols);
         setReqToWin(reqToWin);

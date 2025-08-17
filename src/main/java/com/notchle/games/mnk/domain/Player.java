@@ -2,8 +2,7 @@ package main.java.com.notchle.games.mnk.domain;
 
 public enum Player {
     X('X'),
-    O('O'),
-    EMPTY(' ');
+    O('O');
 
     private final char icon;
 

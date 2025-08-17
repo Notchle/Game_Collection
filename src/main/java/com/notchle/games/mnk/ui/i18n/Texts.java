@@ -15,7 +15,6 @@ public final class Texts {
     public static final String PROMPT_PLAY_BOT          = "Would you like to play against a bot?";
     public static final String PROMPT_PLAY_GRAVITY      = "Would you like to play with gravity enabled?";
     public static final String PROMPT_PLAY_AGAIN        = "Would you like to play again?";
-    public static final String PROMPT_PLAY_DIFFERENT    = "Would you like to play a different game mode?";
 
     //ERROR MESSAGES
     public static final String ERROR_INPUT_CHOICE       = "Error: Please choose between '%s' and '%s'!\n";
