@@ -1,8 +1,8 @@
-package com.notchle.games.mnk.ui.console;
+package main.java.com.notchle.games.mnk.ui.console;
 
 import java.util.Scanner;
 
-import static com.notchle.games.mnk.ui.i18n.Texts.*;
+import static main.java.com.notchle.games.mnk.ui.i18n.Texts.*;
 
 public final class Input {
 

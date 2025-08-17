@@ -1,4 +1,4 @@
-package com.notchle.games.mnk.domain;
+package main.java.com.notchle.games.mnk.domain;
 
 public final class Board {
 

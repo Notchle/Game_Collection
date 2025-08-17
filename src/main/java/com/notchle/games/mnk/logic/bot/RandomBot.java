@@ -1,11 +1,11 @@
-package com.notchle.games.mnk.logic.bot;
+package main.java.com.notchle.games.mnk.logic.bot;
 
-import com.notchle.games.mnk.domain.Board;
-import com.notchle.games.mnk.domain.Player;
+import main.java.com.notchle.games.mnk.domain.Board;
+import main.java.com.notchle.games.mnk.domain.Player;
 
 import java.util.concurrent.ThreadLocalRandom;
 
-import static com.notchle.games.mnk.logic.GameLogic.*;
+import static main.java.com.notchle.games.mnk.logic.GameLogic.*;
 
 public final class RandomBot {
 

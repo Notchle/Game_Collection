@@ -1,4 +1,4 @@
-package com.notchle.games.mnk.ui.i18n;
+package main.java.com.notchle.games.mnk.ui.i18n;
 
 public final class Texts {
     //PROMPTS

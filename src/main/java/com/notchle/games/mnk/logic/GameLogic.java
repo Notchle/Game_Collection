@@ -1,10 +1,10 @@
-package com.notchle.games.mnk.logic;
+package main.java.com.notchle.games.mnk.logic;
 
-import com.notchle.games.mnk.domain.Board;
-import com.notchle.games.mnk.domain.Player;
-import com.notchle.games.mnk.domain.Symbols;
+import main.java.com.notchle.games.mnk.domain.Board;
+import main.java.com.notchle.games.mnk.domain.Player;
+import main.java.com.notchle.games.mnk.domain.Symbols;
 
-import static com.notchle.games.mnk.ui.i18n.Texts.*;
+import static main.java.com.notchle.games.mnk.ui.i18n.Texts.*;
 
 
 public class GameLogic {

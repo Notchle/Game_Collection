@@ -1,10 +1,10 @@
-package com.notchle.games.mnk.app;
+package main.java.com.notchle.games.mnk.app;
 
-import com.notchle.games.mnk.engine.MNKGame;
-import com.notchle.games.mnk.domain.GameType;
-import com.notchle.games.mnk.ui.console.Menu;
+import main.java.com.notchle.games.mnk.engine.MNKGame;
+import main.java.com.notchle.games.mnk.domain.GameType;
+import main.java.com.notchle.games.mnk.ui.console.Menu;
 
-import static com.notchle.games.mnk.ui.i18n.Texts.*;
+import static main.java.com.notchle.games.mnk.ui.i18n.Texts.*;
 
 import java.util.Scanner;
 

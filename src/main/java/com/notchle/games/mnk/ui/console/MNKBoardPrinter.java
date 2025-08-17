@@ -1,6 +1,6 @@
-package com.notchle.games.mnk.ui.console;
+package main.java.com.notchle.games.mnk.ui.console;
 
-import com.notchle.games.mnk.domain.Board;
+import main.java.com.notchle.games.mnk.domain.Board;
 
 public final class MNKBoardPrinter {
 

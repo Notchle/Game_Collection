@@ -1,6 +1,6 @@
-package com.notchle.games.mnk.domain;
+package main.java.com.notchle.games.mnk.domain;
 
-import static com.notchle.games.mnk.ui.i18n.Texts.*;
+import static main.java.com.notchle.games.mnk.ui.i18n.Texts.*;
 
 public enum GameType {
     TICTACTOE(3, 3, 3, false, GAMEMODE_TICTACTOE),
