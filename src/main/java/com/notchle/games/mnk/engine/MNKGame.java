@@ -119,10 +119,6 @@ public class MNKGame {
         this.vsBot = getChoice(PROMPT_PLAY_BOT, "Y", "N", sc);
     }
 
-    public void setVsBot(boolean isBotActive) {
-        this.vsBot = isBotActive;
-    }
-
     public void setGravity() {
         this.gravity = getChoice(PROMPT_PLAY_GRAVITY, "Y", "N", sc);
     }
