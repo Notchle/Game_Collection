@@ -35,7 +35,7 @@ public final class Texts {
     public static final String GAME_GOODBYE             = "Terminating program...";
 
     //GAME NAMES
-    public static final String GAMEMODE_TICTACTOE       = "TicTacToe";
+    public static final String GAMEMODE_TICTACTOE       = "Tic-tac-toe";
     public static final String GAMEMODE_GOMOKU          = "Gomoku";
     public static final String GAMEMODE_CONNECT_FOUR    = "Connect Four";
     public static final String GAMEMODE_CUSTOM          = "Custom Game";
